@@ -54,7 +54,7 @@ This is a RESTful API for managing blood bank records. It allows users to perfor
     }
     ```
 
-    ![GET by ID Request Example](./images/get-id-request.jpg)
+    ![GET by ID Request Example](./images/get-id.jpg)
     ![GET by ID Response Example](./images/get-id-response.jpg)
 
 ---
