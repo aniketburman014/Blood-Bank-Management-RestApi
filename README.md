@@ -32,7 +32,7 @@ This is a RESTful API for managing blood bank records. It allows users to perfor
     ```
 
   
-    ![GET Response Example](./images/get-response.png)
+    ![GET Response Example](./images/get-response.jpg)
 
 ---
 
@@ -54,8 +54,8 @@ This is a RESTful API for managing blood bank records. It allows users to perfor
     }
     ```
 
-    ![GET by ID Request Example](./images/get-id-request.png)
-    ![GET by ID Response Example](./images/get-id-response.png)
+    ![GET by ID Request Example](./images/get-id-request.jpg)
+    ![GET by ID Response Example](./images/get-id-response.jpg)
 
 ---
 
@@ -86,8 +86,8 @@ This is a RESTful API for managing blood bank records. It allows users to perfor
     }
     ```
 
-    ![POST Request Example](./images/post.png)
-    ![POST Response Example](./images/post-response.png)
+    ![POST Request Example](./images/post.jpg)
+    ![POST Response Example](./images/post-response.jpg)
 
 ---
 
@@ -118,8 +118,8 @@ This is a RESTful API for managing blood bank records. It allows users to perfor
     }
     ```
 
-    ![PUT Request Example](./images/put.png)
-    ![PUT Response Example](./images/put-response.png)
+    ![PUT Request Example](./images/put.jpg)
+    ![PUT Response Example](./images/put-response.jpg)
 
 ---
 
@@ -137,8 +137,8 @@ This is a RESTful API for managing blood bank records. It allows users to perfor
     }
     ```
 
-    ![DELETE Request Example](./images/delete.png)
-    ![DELETE Response Example](./images/delete-response.png)
+    ![DELETE Request Example](./images/delete.jpg)
+    ![DELETE Response Example](./images/delete-response.jpg)
 
 ---
 
@@ -166,8 +166,8 @@ This is a RESTful API for managing blood bank records. It allows users to perfor
     ]
     ```
 
-    ![Search Request Example](./images/search.png)
-    ![Search Response Example](./images/search-response.png)
+    ![Search Request Example](./images/search.jpg)
+    ![Search Response Example](./images/search-response.jpg)
 
 ---
 
@@ -206,8 +206,8 @@ This is a RESTful API for managing blood bank records. It allows users to perfor
     }
     ```
 
-    ![Paginated Search Request Example](./images/paginated.png)
-    ![Paginated Search Response Example](./images/paginated-response.png)
+    ![Paginated Search Request Example](./images/paginated.jpg)
+    ![Paginated Search Response Example](./images/paginated-response.jpg)
 
 ---
 
